@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5C826A46-1F83-7472-FBAD-D2D124D53D26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HeadBobController.cs">
+    <Files>
+      <File FileName="Assets/MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mini First Person Controller/Scripts/FirstPersonLook.cs" Line="17" Column="61" />
+      <File FileName="Assets/Mini First Person Controller/Scripts/FirstPersonMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mini First Person Controller/Scripts/Components/GroundCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets/HeadBobController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9a4d5593-3faa-4b70-ae21-fc69f0e5794a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
